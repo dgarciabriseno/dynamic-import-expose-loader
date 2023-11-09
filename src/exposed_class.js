@@ -1,0 +1,4 @@
+class ExposedClass {
+}
+
+export { ExposedClass }

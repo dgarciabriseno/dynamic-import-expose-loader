@@ -1,0 +1,4 @@
+class OtherClass {
+}
+
+export { OtherClass }
