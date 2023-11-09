@@ -5,3 +5,7 @@ This repo is meant to show off some behavior I've run into that I don't understa
 1. ExposedClass is exposed via expose loader.
 2. OtherClass is imported dynamically.
 3. ExposedClass is gone from global scope.
+
+To run this:
+1. `npx webpack`
+2. `cd dist && python -m http.server`
